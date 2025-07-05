@@ -1,0 +1,9 @@
+{
+	"name": "devadf0507",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "51fe8969-e58d-4d91-a1bf-8e19e2c5d4a7",
+		"tenantId": "e37e482a-8115-4c0b-be98-964524cb7fa3"
+	}
+}
